@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+.env
+.env.*
+docs/
+SOURCE_LINE_MAP.json
+ПРОВЕРКА_КОПИИ.json
